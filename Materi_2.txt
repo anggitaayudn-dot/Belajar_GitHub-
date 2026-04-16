@@ -1,0 +1,5 @@
+Jadwal SIM
+- Senin
+- Selasa
+- Rabu
+- Kamis

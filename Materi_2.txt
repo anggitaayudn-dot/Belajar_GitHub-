@@ -3,3 +3,5 @@ Jadwal SIM
 - Selasa
 - Rabu
 - Kamis
+- Jumat
+- Sabtu
